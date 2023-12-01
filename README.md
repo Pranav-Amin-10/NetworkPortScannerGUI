@@ -2,8 +2,6 @@
 
 This is the GUI(Graphical User Interface) version of project.
 
-# NetworkPortScanner
-
 Description:
 NetworkPortScanner is a simple Java program that scans a specified range of ports on a target IP address to check for open ports. It utilizes socket connections to attempt a connection to each port and reports whether the port is open or closed. This can be useful for network administrators and security professionals to identify open ports on a system.
 
